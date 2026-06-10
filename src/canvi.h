@@ -2,8 +2,8 @@
 #define CANVI_H
 
 #include <stdint.h>
-#include "tigui.h"
-#include "irecovery.h"
+#include "tigui/tigui.h"
+#include "libirecovery/irecovery.h"
 
 tigui_error_t scanning_screen(irecovery_client_t client);
 tigui_error_t control_panel_screen(irecovery_client_t client);

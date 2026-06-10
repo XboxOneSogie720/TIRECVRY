@@ -1,6 +1,6 @@
-#include "tigui.h"
+#include "tigui/tigui.h"
 #include "canvi.h"
-#include "irecovery.h"
+#include "libirecovery/irecovery.h"
 
 int main(void) {
     // Get irecovery ready

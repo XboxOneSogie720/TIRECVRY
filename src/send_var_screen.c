@@ -1,8 +1,8 @@
 #include <fileioc.h>
 #include <stdlib.h>
 #include <string.h>
-#include "tigui.h"
-#include "irecovery.h"
+#include "tigui/tigui.h"
+#include "libirecovery/irecovery.h"
 #include "canvi.h"
 
 tigui_list_item_t* send_var_screen_items = NULL; // heap

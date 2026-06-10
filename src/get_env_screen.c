@@ -1,7 +1,7 @@
 #include <string.h>
 #include <stdlib.h>
-#include "tigui.h"
-#include "irecovery.h"
+#include "tigui/tigui.h"
+#include "libirecovery/irecovery.h"
 
 char* get_env_screen_default_text_box_value = "Environment variable value will show up here!";
 char get_env_screen_var_name_buf[32] = tigui_element_init();

@@ -8,7 +8,7 @@ DESCRIPTION = "irecovery but on a calculator."
 COMPRESSED = YES
 ARCHIVED = YES
 
-CFLAGS = -Isrc/libirecovery -Isrc/tigui -Wall -Wextra -Oz
+CFLAGS = -Wall -Wextra -Oz
 CXXFLAGS = -Wall -Wextra -Oz
 
 # ----------------------------

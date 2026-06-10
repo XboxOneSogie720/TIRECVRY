@@ -1,6 +1,6 @@
 #include <string.h>
-#include "tigui.h"
-#include "irecovery.h"
+#include "tigui/tigui.h"
+#include "libirecovery/irecovery.h"
 
 char set_env_screen_var_name_buf[32] = tigui_element_init();
 char set_env_screen_var_value_buf[sizeof(set_env_screen_var_name_buf) * 4] = tigui_element_init();

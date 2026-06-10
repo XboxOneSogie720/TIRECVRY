@@ -1,5 +1,5 @@
-#include "tigui.h"
-#include "irecovery.h"
+#include "tigui/tigui.h"
+#include "libirecovery/irecovery.h"
 
 /* Elements */
 tigui_text_t progress_bar_screen_usage_text = {

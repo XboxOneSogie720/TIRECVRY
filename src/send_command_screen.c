@@ -1,6 +1,6 @@
 #include <string.h>
-#include "tigui.h"
-#include "irecovery.h"
+#include "tigui/tigui.h"
+#include "libirecovery/irecovery.h"
 
 char cmd_buf[256] = tigui_element_init();
 

@@ -3,8 +3,8 @@
 #include <stdarg.h>
 #include <inttypes.h>
 #include <string.h>
-#include "tigui.h"
-#include "irecovery.h"
+#include "tigui/tigui.h"
+#include "libirecovery/irecovery.h"
 #include "canvi.h"
 
 /* Actions/Callbacks (Forward Declarations) */

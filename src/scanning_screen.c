@@ -1,5 +1,5 @@
-#include "tigui.h"
-#include "irecovery.h"
+#include "tigui/tigui.h"
+#include "libirecovery/irecovery.h"
 
 /* Actions/Callbacks (Forward Declarations) */
 bool scanning_screen_device_poller(void* user_data);

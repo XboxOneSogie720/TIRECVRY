@@ -1,0 +1,6 @@
+[submodule "src/libirecovery"]
+	path = src/libirecovery
+	url = https://github.com/XboxOneSogie720/libirecovery
+[submodule "src/tigui"]
+	path = src/tigui
+	url = https://github.com/XboxOneSogie720/tigui

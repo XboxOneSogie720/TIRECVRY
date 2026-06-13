@@ -5,7 +5,7 @@
 NAME = TIRECVRY
 ICON = icon.png
 DESCRIPTION = "irecovery but on a calculator."
-COMPRESSED = YES
+COMPRESSED = NO
 ARCHIVED = YES
 
 CFLAGS = -Wall -Wextra -Oz
